@@ -1,4 +1,4 @@
-% Facts about the offspring of Queen Elizabeth
+% Facts about the offspring of Queen Elizabeth including their birth order
 offspring(prince_charles, male, 1).
 offspring(princess_ann, female, 2).
 offspring(prince_andrew, male, 3).
